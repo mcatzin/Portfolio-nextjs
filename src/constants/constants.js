@@ -43,8 +43,19 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  {
+    year: 2018,
+    text: "I moved to Nashville, TN, from San Jose, CA, to attend College.",
+  },
+  {
+    year: 2019,
+    text:
+      "I interned for the first time with West Coast Quartz. I developed a desktop application to mange inventory for West Coast Quartz. ",
+  },
+  {
+    year: 2020,
+    text:
+      "West Coast Quartz offered me a full-time positon after graduating from college.",
+  },
+  { year: 2021, text: "To continue..." },
 ];
