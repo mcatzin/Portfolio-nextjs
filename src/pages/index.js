@@ -4,6 +4,7 @@ import { Section } from "../styles/GlobalComponents";
 import Projects from "../components/Projects/Projects";
 import Technologies from "../components/Technologies/Technologies";
 import TimeLine from "../components/TimeLine/TimeLine";
+import Footer from "../components/Footer/Footer";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <Projects />
       <Technologies />
       <TimeLine />
+      <Footer />
     </Layout>
   );
 };
