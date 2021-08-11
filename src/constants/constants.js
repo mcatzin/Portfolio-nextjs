@@ -4,7 +4,7 @@ export const projects = [
     description:
       "This project is a simple eCommerce website with an Admin management system and user registration to practice vanilla JavaScript with Node.js and MongoDB. Applied JWT Authentication and responsive design principles.",
     image: "/images/image-1.png",
-    tags: ["JavaScript", "Node", "Express", "MongoDB"],
+    tags: ["JavaScript", "Node", "Express", "MongoDB", "Mongoose"],
     source: "https://github.com/mcatzin/shilotoys",
     visit: "https://shilostoys.herokuapp.com/",
     id: 0,
