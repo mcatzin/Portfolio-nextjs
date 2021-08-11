@@ -1,43 +1,33 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "Shilo's Toys",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "This project is a simple eCommerce website with an Admin management system and user registration to practice vanilla JavaScript with Node.js and MongoDB. Applied JWT Authentication and responsive design principles.",
+    image: "/images/image-1.png",
+    tags: ["JavaScript", "Node", "Express", "MongoDB"],
+    source: "https://github.com/mcatzin/shilotoys",
+    visit: "https://shilostoys.herokuapp.com/",
     id: 0,
   },
   {
-    title: "E-Commerce",
+    title: "Book Blog",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "This blog offers information from a wide range of web development books. It includes ratings and prices. Here, you'll find bookish blog posts and book reviews to help you learn frameworks and libraries",
+    image: "/images/image-2.png",
+    tags: ["React", "Redux", "Node", "Express", "MongoDB", "Mongoose"],
+    source: "https://github.com/mcatzin/The-Book-Blog",
+    visit: "https://thebookblogweb.herokuapp.com/",
     id: 1,
   },
   {
     title: "WebRTC App",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "This project is a simple data visualization of live Stocks and Forex website using Highcharts library in React.js with Redux.",
+    image: "/images/image-3.png",
+    tags: ["React", "Redux"],
+    source: "https://github.com/mcatzin/highlowstocks",
+    visit: "https://highlowstocks.herokuapp.com/",
     id: 2,
-  },
-  {
-    title: "Unichat",
-    description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 3,
   },
 ];
 
